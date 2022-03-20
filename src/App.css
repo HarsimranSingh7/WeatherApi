@@ -1,0 +1,15 @@
+.weather-icon {
+  width: 100px;
+}
+
+.App {
+  background-image: url('./assets/009.jpg');
+  background-size: cover;
+  background-position:bottom;
+  transition: 0.4 ease;
+  padding-bottom: 300px;
+  
+}
+h2 {
+  color:  rgb(255, 255, 255);
+}
